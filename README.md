@@ -4,7 +4,7 @@ Website made with: React, Python, Django, DRF, and sqlite
 
 This project is currently in development and is by no means a finsihed project. There are many features that are currently under development. User profiles, tracking additional nutrients (fat, carbs, protein, etc), as well as user set goals for each nutrient.  
 
-The React front-end is located in the "food-fe" folder. The "food" and "user_profiles" folders contain the Python/Django endpoints.
+The React front-end is located in the "food-fe" folder. The "food" and "user_profiles" folders contain the Python/Django code.
 
 ### Description:
 A health focused website that allows users to track the food they eat each day. The idea is to make the user more mindful of their eating habits and hopefully stick to whatever their goals may be. 
