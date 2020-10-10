@@ -17,8 +17,8 @@ The back-end is a Restful API developed in Django. It has get, post, update, and
 
 ### Pictures: 
 
-<img src="https://github.com/lucasg321/HealthApp/blob/master/django_react_proj/templates/frontpage.JPG" width="800" height="600" />
+<img src="https://github.com/lucasg321/HealthApp/blob/master/django_react_proj/templates/frontpage.JPG" width="1100" height="600" />
 
 
-<img src="https://github.com/lucasg321/HealthApp/blob/master/django_react_proj/templates/modal.JPG" width="800" height="600" />
+<img src="https://github.com/lucasg321/HealthApp/blob/master/django_react_proj/templates/modal.JPG" width="1100" height="600" />
 
