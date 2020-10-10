@@ -14,5 +14,5 @@ HTML, CSS, Javascript, React, Axios, Python, Django, Django Rest Framework, and 
 A health focused website that allows users to track the food they eat each day. The idea is to make the user more mindful of their eating habits and hopefully stick to whatever their goals may be. 
 
 ### How it works:
-The back-end is a Restful API developed in Django. It has get, post, update, and delete functionality to track users and food. The front-end is made using React and Axios to simply call the various endpoints depending on the users actions. It then displays and/or updates the DOM as it is received.    
+The back-end is a Restful API developed in Django. It has get, post, update, and delete functionality to track users and food. The front-end is made using React and Axios to simply call the various endpoints depending on the user's actions. It then displays and/or updates the DOM as it is received.    
 
